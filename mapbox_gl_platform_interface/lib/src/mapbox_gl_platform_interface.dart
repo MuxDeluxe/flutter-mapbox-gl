@@ -222,4 +222,4 @@ abstract class MapboxGlPlatform {
       throw UnimplementedError(
         'toLatLng() has not been implemented.');
   }
-
+}
