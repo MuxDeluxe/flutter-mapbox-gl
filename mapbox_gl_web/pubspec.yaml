@@ -20,7 +20,7 @@ dependencies:
     git:
       url: https://github.com/MuxDeluxe/flutter-mapbox-gl.git
       path: mapbox_gl_platform_interface
-      ref: 0.8&onUserLocationUpdated
+      ref: onUserLocationUpdated0.8
   mapbox_gl_dart: ^0.1.5
   image: ^2.1.12
 
