@@ -136,3 +136,4 @@ class UserLocation {
       @required this.verticalAccuracy,
       @required this.timestamp});
 }
+
